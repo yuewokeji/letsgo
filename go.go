@@ -1,1 +1,5 @@
-gogogo
+package letsgo
+
+func Test() {
+  
+}
